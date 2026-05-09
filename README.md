@@ -1,4 +1,4 @@
-## Operating Systems Project 2 - Thread Simulation & Synchronization
+# Operating Systems Project 2 - Thread Simulation & Synchronization
 
 This project simulates process execution using threads and demonstrates synchronization using the Producer-Consumer problem in C.
 
